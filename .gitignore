@@ -212,3 +212,4 @@ rsconnect/
 # Custom files
 *.npz
 .vscode/settings.json
+data/raw/train_data/train_data/.DS_Store
