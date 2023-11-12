@@ -1,0 +1,4 @@
+col_sample: 0.2853329055803172
+max_leaf_nodes: 2
+minibatch_frac: 0.6118335180926856
+n_estimators: 300
